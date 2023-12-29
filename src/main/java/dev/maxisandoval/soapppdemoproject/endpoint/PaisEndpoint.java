@@ -16,7 +16,6 @@ public class PaisEndpoint {
     @Autowired//*
     private PaisRepository paisRepository;
 
-
     @PayloadRoot(namespace = NAMESPACE_URI, localPart = "obtenerPaisRequest")
     @ResponsePayload
     public ObtenerPaisResponse obtenerPais(@RequestPayload ObtenerPaisRequest request) {
