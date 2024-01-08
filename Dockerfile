@@ -12,7 +12,7 @@ FROM openjdk:17-jdk-slim
 
 EXPOSE 8081
 
-COPY --from=build target/*.jar demo.jar
+COPY --from=build target/*.jar demo.war
 
-ENTRYPOINT ["java", "-jar", "demo.jar"]
+ENTRYPOINT ["java", "-jar", "demo.war"]
 
