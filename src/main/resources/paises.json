@@ -1,0 +1,163 @@
+[
+  {
+    "nombre": "argentina",
+    "capital": "Cuidad Autonoma de Buenos Aires",
+    "moneda": "ARS",
+    "poblacion": 46234830,
+    "bandera": "https://flagcdn.com/w2560/ar.png"
+  },
+  {
+    "nombre": "colombia",
+    "capital": "Bogotá",
+    "moneda": "COP",
+    "poblacion": 52210913,
+    "bandera": "https://flagcdn.com/w2560/co.png"
+  },
+  {
+    "nombre": "ecuador",
+    "capital": "Quito",
+    "moneda": "DOL",
+    "poblacion": 1775700,
+    "bandera": "https://flagcdn.com/w2560/ec.png"
+  },
+  {
+    "nombre": "mexico",
+    "capital": "Ciudad de México",
+    "moneda": "MXN",
+    "poblacion": 126190788,
+    "bandera": "https://flagcdn.com/w2560/mx.png"
+  },
+  {
+    "nombre": "brazil",
+    "capital": "Brasilia",
+    "moneda": "BRL",
+    "poblacion": 213993437,
+    "bandera": "https://flagcdn.com/w2560/br.png"
+  },
+  {
+    "nombre": "chile",
+    "capital": "Santiago",
+    "moneda": "CLP",
+    "poblacion": 19116201,
+    "bandera": "https://flagcdn.com/w2560/cl.png"
+  },
+  {
+    "nombre": "peru",
+    "capital": "Lima",
+    "moneda": "PEN",
+    "poblacion": 33297109,
+    "bandera": "https://flagcdn.com/w2560/pe.png"
+  },
+  {
+    "nombre": "venezuela",
+    "capital": "Caracas",
+    "moneda": "VEF",
+    "poblacion": 28515829,
+    "bandera": "https://flagcdn.com/w2560/ve.png"
+  },
+  {
+    "nombre": "argelia",
+    "capital": "Argel",
+    "moneda": "DZD",
+    "poblacion": 43900000,
+    "bandera": "https://flagcdn.com/w2560/dz.png"
+  },
+  {
+    "nombre": "bolivia",
+    "capital": "Sucre",
+    "moneda": "BOB",
+    "poblacion": 11673021,
+    "bandera": "https://flagcdn.com/w2560/bo.png"
+  },
+  {
+    "nombre": "uruguay",
+    "capital": "Montevideo",
+    "moneda": "UYU",
+    "poblacion": 3461734,
+    "bandera": "https://flagcdn.com/w2560/uy.png"
+  },
+  {
+    "nombre": "paraguay",
+    "capital": "Asunción",
+    "moneda": "PYG",
+    "poblacion": 7152703,
+    "bandera": "https://flagcdn.com/w2560/py.png"
+  },
+  {
+    "nombre": "guatemala",
+    "capital": "Ciudad de Guatemala",
+    "moneda": "GTQ",
+    "poblacion": 17247807,
+    "bandera": "https://flagcdn.com/w2560/gt.png"
+  },
+  {
+    "nombre": "honduras",
+    "capital": "Tegucigalpa",
+    "moneda": "HNL",
+    "poblacion": 9904607,
+    "bandera": "https://flagcdn.com/w2560/hn.png"
+  },
+  {
+    "nombre": "panama",
+    "capital": "Ciudad de Panamá",
+    "moneda": "PAB",
+    "poblacion": 4314767,
+    "bandera": "https://flagcdn.com/w2560/pa.png"
+  },
+  {
+    "nombre": "costaRica",
+    "capital": "San José",
+    "moneda": "CRC",
+    "poblacion": 5111233,
+    "bandera": "https://flagcdn.com/w2560/cr.png"
+  },
+  {
+    "nombre": "nicaragua",
+    "capital": "Managua",
+    "moneda": "NIO",
+    "poblacion": 6624554,
+    "bandera": "https://flagcdn.com/w2560/ni.png"
+  },
+  {
+    "nombre": "elSalvador",
+    "capital": "San Salvador",
+    "moneda": "SVC",
+    "poblacion": 6486205,
+    "bandera": "https://flagcdn.com/w2560/sv.png"
+  },
+  {
+    "nombre": "belice",
+    "capital": "Belmopán",
+    "moneda": "BZD",
+    "poblacion": 419199,
+    "bandera": "https://flagcdn.com/w2560/bz.png"
+  },
+  {
+    "nombre": "cuba",
+    "capital": "La Habana",
+    "moneda": "CUP",
+    "poblacion": 11326616,
+    "bandera": "https://flagcdn.com/w2560/cu.png"
+  },
+  {
+    "nombre": "guyana",
+    "capital": "Georgetown",
+    "moneda": "GYD",
+    "poblacion": 786508,
+    "bandera": "https://flagcdn.com/w2560/gy.png"
+  },
+  {
+    "nombre": "surinam",
+    "capital": "Paramaribo",
+    "moneda": "SRD",
+    "poblacion": 586632,
+    "bandera": "https://flagcdn.com/w2560/sr.png"
+  },
+  {
+    "nombre": "guayanaFrancesa",
+    "capital": "Cayena",
+    "moneda": "EUR",
+    "poblacion": 290691,
+    "bandera": "https://flagcdn.com/w2560/gf.png"
+  }
+]
