@@ -7,28 +7,21 @@
     "bandera": "https://flagcdn.com/w2560/ar.png"
   },
   {
-    "nombre": "colombia",
-    "capital": "Bogotá",
-    "moneda": "COP",
-    "poblacion": 52210913,
-    "bandera": "https://flagcdn.com/w2560/co.png"
+    "nombre": "belice",
+    "capital": "Belmopán",
+    "moneda": "BZD",
+    "poblacion": 419199,
+    "bandera": "https://flagcdn.com/w2560/bz.png"
   },
   {
-    "nombre": "ecuador",
-    "capital": "Quito",
-    "moneda": "DOL",
-    "poblacion": 1775700,
-    "bandera": "https://flagcdn.com/w2560/ec.png"
+    "nombre": "bolivia",
+    "capital": "Sucre",
+    "moneda": "BOB",
+    "poblacion": 11673021,
+    "bandera": "https://flagcdn.com/w2560/bo.png"
   },
   {
-    "nombre": "mexico",
-    "capital": "Ciudad de México",
-    "moneda": "MXN",
-    "poblacion": 126190788,
-    "bandera": "https://flagcdn.com/w2560/mx.png"
-  },
-  {
-    "nombre": "brazil",
+    "nombre": "brasil",
     "capital": "Brasilia",
     "moneda": "BRL",
     "poblacion": 213993437,
@@ -42,46 +35,32 @@
     "bandera": "https://flagcdn.com/w2560/cl.png"
   },
   {
-    "nombre": "peru",
-    "capital": "Lima",
-    "moneda": "PEN",
-    "poblacion": 33297109,
-    "bandera": "https://flagcdn.com/w2560/pe.png"
+    "nombre": "colombia",
+    "capital": "Bogotá",
+    "moneda": "COP",
+    "poblacion": 52210913,
+    "bandera": "https://flagcdn.com/w2560/co.png"
   },
   {
-    "nombre": "venezuela",
-    "capital": "Caracas",
-    "moneda": "VEF",
-    "poblacion": 28515829,
-    "bandera": "https://flagcdn.com/w2560/ve.png"
+    "nombre": "costa rica",
+    "capital": "San José",
+    "moneda": "CRC",
+    "poblacion": 5111233,
+    "bandera": "https://flagcdn.com/w2560/cr.png"
   },
   {
-    "nombre": "argelia",
-    "capital": "Argel",
-    "moneda": "DZD",
-    "poblacion": 43900000,
-    "bandera": "https://flagcdn.com/w2560/dz.png"
+    "nombre": "ecuador",
+    "capital": "Quito",
+    "moneda": "USD",
+    "poblacion": 1775700,
+    "bandera": "https://flagcdn.com/w2560/ec.png"
   },
   {
-    "nombre": "bolivia",
-    "capital": "Sucre",
-    "moneda": "BOB",
-    "poblacion": 11673021,
-    "bandera": "https://flagcdn.com/w2560/bo.png"
-  },
-  {
-    "nombre": "uruguay",
-    "capital": "Montevideo",
-    "moneda": "UYU",
-    "poblacion": 3461734,
-    "bandera": "https://flagcdn.com/w2560/uy.png"
-  },
-  {
-    "nombre": "paraguay",
-    "capital": "Asunción",
-    "moneda": "PYG",
-    "poblacion": 7152703,
-    "bandera": "https://flagcdn.com/w2560/py.png"
+    "nombre": "el salvador",
+    "capital": "San Salvador",
+    "moneda": "SVC",
+    "poblacion": 6486205,
+    "bandera": "https://flagcdn.com/w2560/sv.png"
   },
   {
     "nombre": "guatemala",
@@ -91,6 +70,20 @@
     "bandera": "https://flagcdn.com/w2560/gt.png"
   },
   {
+    "nombre": "guyana",
+    "capital": "Georgetown",
+    "moneda": "GYD",
+    "poblacion": 786508,
+    "bandera": "https://flagcdn.com/w2560/gy.png"
+  },
+  {
+    "nombre": "guayana francesa",
+    "capital": "Cayena",
+    "moneda": "EUR",
+    "poblacion": 290691,
+    "bandera": "https://flagcdn.com/w2560/gf.png"
+  },
+  {
     "nombre": "honduras",
     "capital": "Tegucigalpa",
     "moneda": "HNL",
@@ -98,18 +91,18 @@
     "bandera": "https://flagcdn.com/w2560/hn.png"
   },
   {
-    "nombre": "panama",
-    "capital": "Ciudad de Panamá",
-    "moneda": "PAB",
-    "poblacion": 4314767,
-    "bandera": "https://flagcdn.com/w2560/pa.png"
+    "nombre": "mexico",
+    "capital": "Ciudad de México",
+    "moneda": "MXN",
+    "poblacion": 126190788,
+    "bandera": "https://flagcdn.com/w2560/mx.png"
   },
   {
-    "nombre": "costaRica",
-    "capital": "San José",
-    "moneda": "CRC",
-    "poblacion": 5111233,
-    "bandera": "https://flagcdn.com/w2560/cr.png"
+    "nombre": "méxico",
+    "capital": "Ciudad de México",
+    "moneda": "MXN",
+    "poblacion": 126190788,
+    "bandera": "https://flagcdn.com/w2560/mx.png"
   },
   {
     "nombre": "nicaragua",
@@ -119,18 +112,82 @@
     "bandera": "https://flagcdn.com/w2560/ni.png"
   },
   {
-    "nombre": "elSalvador",
-    "capital": "San Salvador",
-    "moneda": "SVC",
-    "poblacion": 6486205,
-    "bandera": "https://flagcdn.com/w2560/sv.png"
+    "nombre": "panama",
+    "capital": "Ciudad de Panamá",
+    "moneda": "PAB",
+    "poblacion": 4314767,
+    "bandera": "https://flagcdn.com/w2560/pa.png"
   },
   {
-    "nombre": "belice",
-    "capital": "Belmopán",
-    "moneda": "BZD",
-    "poblacion": 419199,
-    "bandera": "https://flagcdn.com/w2560/bz.png"
+    "nombre": "paraguay",
+    "capital": "Asunción",
+    "moneda": "PYG",
+    "poblacion": 7152703,
+    "bandera": "https://flagcdn.com/w2560/py.png"
+  },
+  {
+    "nombre": "peru",
+    "capital": "Lima",
+    "moneda": "PEN",
+    "poblacion": 33297109,
+    "bandera": "https://flagcdn.com/w2560/pe.png"
+  },
+  {
+    "nombre": "perú",
+    "capital": "Lima",
+    "moneda": "PEN",
+    "poblacion": 33297109,
+    "bandera": "https://flagcdn.com/w2560/pe.png"
+  },
+  {
+    "nombre": "suriname",
+    "capital": "Paramaribo",
+    "moneda": "SRD",
+    "poblacion": 586632,
+    "bandera": "https://flagcdn.com/w2560/sr.png"
+  },
+  {
+    "nombre": "uruguay",
+    "capital": "Montevideo",
+    "moneda": "UYU",
+    "poblacion": 3461734,
+    "bandera": "https://flagcdn.com/w2560/uy.png"
+  },
+  {
+    "nombre": "venezuela",
+    "capital": "Caracas",
+    "moneda": "VEF",
+    "poblacion": 28515829,
+    "bandera": "https://flagcdn.com/w2560/ve.png"
+  },
+
+  {
+    "nombre": "antigua y barbuda",
+    "capital": "Saint John's",
+    "moneda": "XCD",
+    "poblacion": 97929,
+    "bandera": "https://flagcdn.com/w2560/ag.png"
+  },
+  {
+    "nombre": "aruba",
+    "capital": "Oranjestad",
+    "moneda": "AWG",
+    "poblacion": 106766,
+    "bandera": "https://flagcdn.com/w2560/aw.png"
+  },
+  {
+    "nombre": "bahamas",
+    "capital": "Nasáu",
+    "moneda": "BSD",
+    "poblacion": 393244,
+    "bandera": "https://flagcdn.com/w2560/bs.png"
+  },
+  {
+    "nombre": "barbados",
+    "capital": "Bridgetown",
+    "moneda": "BBD",
+    "poblacion": 287375,
+    "bandera": "https://flagcdn.com/w2560/bb.png"
   },
   {
     "nombre": "cuba",
@@ -140,24 +197,1051 @@
     "bandera": "https://flagcdn.com/w2560/cu.png"
   },
   {
-    "nombre": "guyana",
-    "capital": "Georgetown",
-    "moneda": "GYD",
-    "poblacion": 786508,
-    "bandera": "https://flagcdn.com/w2560/gy.png"
+    "nombre": "dominica",
+    "capital": "Roseau",
+    "moneda": "XCD",
+    "poblacion": 71986,
+    "bandera": "https://flagcdn.com/w2560/dm.png"
   },
   {
-    "nombre": "surinam",
-    "capital": "Paramaribo",
-    "moneda": "SRD",
-    "poblacion": 586632,
-    "bandera": "https://flagcdn.com/w2560/sr.png"
+    "nombre": "grenada",
+    "capital": "Saint George's",
+    "moneda": "XCD",
+    "poblacion": 112003,
+    "bandera": "https://flagcdn.com/w2560/gd.png"
   },
   {
-    "nombre": "guayanaFrancesa",
-    "capital": "Cayena",
+    "nombre": "guadalupe",
+    "capital": "Basse-Terre",
     "moneda": "EUR",
-    "poblacion": 290691,
-    "bandera": "https://flagcdn.com/w2560/gf.png"
+    "poblacion": 400124,
+    "bandera": "https://flagcdn.com/w2560/gp.png"
+  },
+  {
+    "nombre": "haití",
+    "capital": "Puerto Príncipe",
+    "moneda": "HTG",
+    "poblacion": 11577779,
+    "bandera": "https://flagcdn.com/w2560/ht.png"
+  },
+  {
+    "nombre": "haiti",
+    "capital": "Puerto Príncipe",
+    "moneda": "HTG",
+    "poblacion": 11577779,
+    "bandera": "https://flagcdn.com/w2560/ht.png"
+  },
+  {
+    "nombre": "islas caimán",
+    "capital": "George Town",
+    "moneda": "KYD",
+    "poblacion": 66383,
+    "bandera": "https://flagcdn.com/w2560/ky.png"
+  },
+  {
+    "nombre": "islas caiman",
+    "capital": "George Town",
+    "moneda": "KYD",
+    "poblacion": 66383,
+    "bandera": "https://flagcdn.com/w2560/ky.png"
+  },
+  {
+    "nombre": "islas turcas y caicos",
+    "capital": "Cockburn Town",
+    "moneda": "USD",
+    "poblacion": 41317,
+    "bandera": "https://flagcdn.com/w2560/tc.png"
+  },
+  {
+    "nombre": "islas vírgenes",
+    "capital": "Charlotte Amalie",
+    "moneda": "USD",
+    "poblacion": 104578,
+    "bandera": "https://flagcdn.com/w2560/vi.png"
+  },
+  {
+    "nombre": "islas virgenes",
+    "capital": "Charlotte Amalie",
+    "moneda": "USD",
+    "poblacion": 104578,
+    "bandera": "https://flagcdn.com/w2560/vi.png"
+  },
+  {
+    "nombre": "jamaica",
+    "capital": "Kingston",
+    "moneda": "JMD",
+    "poblacion": 2961161,
+    "bandera": "https://flagcdn.com/w2560/jm.png"
+  },
+  {
+    "nombre": "martinica",
+    "capital": "Fort-de-France",
+    "moneda": "EUR",
+    "poblacion": 375554,
+    "bandera": "https://flagcdn.com/w2560/mq.png"
+  },
+  {
+    "nombre": "puerto rico",
+    "capital": "San Juan",
+    "moneda": "USD",
+    "poblacion": 3032165,
+    "bandera": "https://flagcdn.com/w2560/pr.png"
+  },
+  {
+    "nombre": "república dominicana",
+    "capital": "Santo Domingo",
+    "moneda": "DOP",
+    "poblacion": 11048591,
+    "bandera": "https://flagcdn.com/w2560/do.png"
+  },
+  {
+    "nombre": "republica dominicana",
+    "capital": "Santo Domingo",
+    "moneda": "DOP",
+    "poblacion": 11048591,
+    "bandera": "https://flagcdn.com/w2560/do.png"
+  },
+  {
+    "nombre": "san bartolomé",
+    "capital": "Gustavia",
+    "moneda": "EUR",
+    "poblacion": 9877,
+    "bandera": "https://flagcdn.com/w2560/bl.png"
+  },
+  {
+    "nombre": "san bartolome",
+    "capital": "Gustavia",
+    "moneda": "EUR",
+    "poblacion": 9877,
+    "bandera": "https://flagcdn.com/w2560/bl.png"
+  },
+  {
+    "nombre": "san cristóbal y nieves",
+    "capital": "Basseterre",
+    "moneda": "XCD",
+    "poblacion": 53199,
+    "bandera": "https://flagcdn.com/w2560/kn.png"
+  },
+  {
+    "nombre": "san cristobal y nieves",
+    "capital": "Basseterre",
+    "moneda": "XCD",
+    "poblacion": 53199,
+    "bandera": "https://flagcdn.com/w2560/kn.png"
+  },
+  {
+    "nombre": "san vicente y las granadinas",
+    "capital": "Kingstown",
+    "moneda": "XCD",
+    "poblacion": 110608,
+    "bandera": "https://flagcdn.com/w2560/vc.png"
+  },
+  {
+    "nombre": "santa lucía",
+    "capital": "Castries",
+    "moneda": "XCD",
+    "poblacion": 184401,
+    "bandera": "https://flagcdn.com/w2560/lc.png"
+  },
+  {
+    "nombre": "santa lucia",
+    "capital": "Castries",
+    "moneda": "XCD",
+    "poblacion": 184401,
+    "bandera": "https://flagcdn.com/w2560/lc.png"
+  },
+  {
+    "nombre": "trinidad y tobago",
+    "capital": "Puerto España",
+    "moneda": "TTD",
+    "poblacion": 1399488,
+    "bandera": "https://flagcdn.com/w2560/tt.png"
+  },
+
+  {
+    "nombre": "canada",
+    "capital": "Ottawa",
+    "moneda": "CAD",
+    "poblacion": 37961548,
+    "bandera": "https://flagcdn.com/w2560/ca.png"
+  },
+  {
+    "nombre": "estados unidos",
+    "capital": "Washington D.C.",
+    "moneda": "USD",
+    "poblacion": 331002651,
+    "bandera": "https://flagcdn.com/w2560/us.png"
+  },
+  {
+    "nombre": "eeuu",
+    "capital": "Washington D.C.",
+    "moneda": "USD",
+    "poblacion": 331002651,
+    "bandera": "https://flagcdn.com/w2560/us.png"
+  },
+
+  {
+    "nombre": "Albania",
+    "capital": "Tirana",
+    "moneda": "ALL",
+    "poblacion": 2877797,
+    "bandera": "https://flagcdn.com/w2560/al.png"
+  },
+  {
+    "nombre": "Andorra",
+    "capital": "Andorra la Vella",
+    "moneda": "EUR",
+    "poblacion": 77265,
+    "bandera": "https://flagcdn.com/w2560/ad.png"
+  },
+  {
+    "nombre": "Bielorrusia",
+    "capital": "Minsk",
+    "moneda": "BYN",
+    "poblacion": 9449323,
+    "bandera": "https://flagcdn.com/w2560/by.png"
+  },
+  {
+    "nombre": "BosniaHerzegovina",
+    "capital": "Sarajevo",
+    "moneda": "BAM",
+    "poblacion": 3280819,
+    "bandera": "https://flagcdn.com/w2560/ba.png"
+  },
+  {
+    "nombre": "Eslovaquia",
+    "capital": "Bratislava",
+    "moneda": "EUR",
+    "poblacion": 5450421,
+    "bandera": "https://flagcdn.com/w2560/sk.png"
+  },
+  {
+    "nombre": "Eslovenia",
+    "capital": "Liubliana",
+    "moneda": "EUR",
+    "poblacion": 2078938,
+    "bandera": "https://flagcdn.com/w2560/si.png"
+  },
+  {
+    "nombre": "Kazajistán",
+    "capital": "Nursultán",
+    "moneda": "KZT",
+    "poblacion": 18776707,
+    "bandera": "https://flagcdn.com/w2560/kz.png"
+  },
+  {
+    "nombre": "Kosovo",
+    "capital": "Pristina",
+    "moneda": "EUR",
+    "poblacion": 1810366,
+    "bandera": "https://flagcdn.com/w2560/xk.png"
+  },
+  {
+    "nombre": "Liechtenstein",
+    "capital": "Vaduz",
+    "moneda": "CHF",
+    "poblacion": 38128,
+    "bandera": "https://flagcdn.com/w2560/li.png"
+  },
+  {
+    "nombre": "Luxemburgo",
+    "capital": "Luxemburgo",
+    "moneda": "EUR",
+    "poblacion": 626108,
+    "bandera": "https://flagcdn.com/w2560/lu.png"
+  },
+  {
+    "nombre": "MacedoniaDelNorte",
+    "capital": "Skopie",
+    "moneda": "MKD",
+    "poblacion": 2081000,
+    "bandera": "https://flagcdn.com/w2560/mk.png"
+  },
+  {
+    "nombre": "Malta",
+    "capital": "La Valeta",
+    "moneda": "EUR",
+    "poblacion": 514564,
+    "bandera": "https://flagcdn.com/w2560/mt.png"
+  },
+  {
+    "nombre": "Moldavia",
+    "capital": "Chisináu",
+    "moneda": "MDL",
+    "poblacion": 2657637,
+    "bandera": "https://flagcdn.com/w2560/md.png"
+  },
+  {
+    "nombre": "Mónaco",
+    "capital": "Mónaco",
+    "moneda": "EUR",
+    "poblacion": 39242,
+    "bandera": "https://flagcdn.com/w2560/mc.png"
+  },
+  {
+    "nombre": "Montenegro",
+    "capital": "Podgorica",
+    "moneda": "EUR",
+    "poblacion": 622359,
+    "bandera": "https://flagcdn.com/w2560/me.png"
+  },
+  {
+    "nombre": "SanMarino",
+    "capital": "San Marino",
+    "moneda": "EUR",
+    "poblacion": 33931,
+    "bandera": "https://flagcdn.com/w2560/sm.png"
+  },
+  {
+    "nombre": "Serbia",
+    "capital": "Belgrado",
+    "moneda": "RSD",
+    "poblacion": 7001444,
+    "bandera": "https://flagcdn.com/w2560/rs.png"
+  },
+  {
+    "nombre": "Ucrania",
+    "capital": "Kiev",
+    "moneda": "UAH",
+    "poblacion": 41569000,
+    "bandera": "https://flagcdn.com/w2560/ua.png"
+  },
+
+  {
+    "nombre": "australia",
+    "capital": "Camberra",
+    "moneda": "AUD",
+    "poblacion": 257883197,
+    "bandera": "https://flagcdn.com/w2560/au.png"
+  },
+  {
+    "nombre": "fiyi",
+    "capital": "Suva",
+    "moneda": "FJD",
+    "poblacion": 896445,
+    "bandera": "https://flagcdn.com/w2560/fj.png"
+  },
+  {
+    "nombre": "islas cook",
+    "capital": "Avarua",
+    "moneda": "NZD",
+    "poblacion": 17500,
+    "bandera": "https://flagcdn.com/w2560/ck.png"
+  },
+  {
+    "nombre": "islas marshall",
+    "capital": "Majuro",
+    "moneda": "USD",
+    "poblacion": 59190,
+    "bandera": "https://flagcdn.com/w2560/mh.png"
+  },
+  {
+    "nombre": "islas pitcairn",
+    "capital": "Adamstown",
+    "moneda": "NZD",
+    "poblacion": 50,
+    "bandera": "https://flagcdn.com/w2560/pn.png"
+  },
+  {
+    "nombre": "islas salomón",
+    "capital": "Honiara",
+    "moneda": "SBD",
+    "poblacion": 715000,
+    "bandera": "https://flagcdn.com/w2560/sb.png"
+  },
+  {
+    "nombre": "islas salomon",
+    "capital": "Honiara",
+    "moneda": "SBD",
+    "poblacion": 715000,
+    "bandera": "https://flagcdn.com/w2560/sb.png"
+  },
+  {
+    "nombre": "kiribati",
+    "capital": "Tarawa",
+    "moneda": "AUD",
+    "poblacion": 120100,
+    "bandera": "https://flagcdn.com/w2560/ki.png"
+  },
+  {
+    "nombre": "marshall islands",
+    "capital": "Majuro",
+    "moneda": "USD",
+    "poblacion": 59190,
+    "bandera": "https://flagcdn.com/w2560/mh.png"
+  },
+  {
+    "nombre": "micronesia",
+    "capital": "Palikir",
+    "moneda": "USD",
+    "poblacion": 105544,
+    "bandera": "https://flagcdn.com/w2560/fm.png"
+  },
+  {
+    "nombre": "nauru",
+    "capital": "Yaren",
+    "moneda": "AUD",
+    "poblacion": 10084,
+    "bandera": "https://flagcdn.com/w2560/nr.png"
+  },
+  {
+    "nombre": "nueva caledonia",
+    "capital": "Numea",
+    "moneda": "XPF",
+    "poblacion": 282200,
+    "bandera": "https://flagcdn.com/w2560/nc.png"
+  },
+  {
+    "nombre": "nueva zelanda",
+    "capital": "Wellington",
+    "moneda": "NZD",
+    "poblacion": 5125200,
+    "bandera": "https://flagcdn.com/w2560/nz.png"
+  },
+  {
+    "nombre": "norfolk island",
+    "capital": "Kingston",
+    "moneda": "AUD",
+    "poblacion": 2169,
+    "bandera": "https://flagcdn.com/w2560/nf.png"
+  },
+  {
+    "nombre": "palau",
+    "capital": "Ngerulmud",
+    "moneda": "USD",
+    "poblacion": 18008,
+    "bandera": "https://flagcdn.com/w2560/pw.png"
+  },
+  {
+    "nombre": "papúa nueva guinea",
+    "capital": "Port Moresby",
+    "moneda": "PGK",
+    "poblacion": 8935000,
+    "bandera": "https://flagcdn.com/w2560/pg.png"
+  },
+  {
+    "nombre": "papua nueva guinea",
+    "capital": "Port Moresby",
+    "moneda": "PGK",
+    "poblacion": 8935000,
+    "bandera": "https://flagcdn.com/w2560/pg.png"
+  },
+  {
+    "nombre": "polinesia francesa",
+    "capital": "Papeete",
+    "moneda": "XPF",
+    "poblacion": 280600,
+    "bandera": "https://flagcdn.com/w2560/pf.png"
+  },
+  {
+    "nombre": "samoa",
+    "capital": "Apia",
+    "moneda": "WST",
+    "poblacion": 200874,
+    "bandera": "https://flagcdn.com/w2560/ws.png"
+  },
+  {
+    "nombre": "territorio británico del océano indico",
+    "capital": "Diego Garcia",
+    "moneda": "USD",
+    "poblacion": 3000,
+    "bandera": "https://flagcdn.com/w2560/io.png"
+  },
+  {
+    "nombre": "territorio britanico del oceano indico",
+    "capital": "Diego Garcia",
+    "moneda": "USD",
+    "poblacion": 3000,
+    "bandera": "https://flagcdn.com/w2560/io.png"
+  },
+  {
+    "nombre": "tokelau",
+    "capital": "Nukunonu",
+    "moneda": "NZD",
+    "poblacion": 1400,
+    "bandera": "https://flagcdn.com/w2560/tk.png"
+  },
+  {
+    "nombre": "tonga",
+    "capital": "Nukualofa",
+    "moneda": "TOP",
+    "poblacion": 100000,
+    "bandera": "https://flagcdn.com/w2560/to.png"
+  },
+  {
+    "nombre": "tuvalu",
+    "capital": "Funafuti",
+    "moneda": "AUD",
+    "poblacion": 11792,
+    "bandera": "https://flagcdn.com/w2560/tv.png"
+  },
+  {
+    "nombre": "vanuatu",
+    "capital": "Port Vila",
+    "moneda": "VUV",
+    "poblacion": 307145,
+    "bandera": "https://flagcdn.com/w2560/vu.png"
+  },
+  {
+    "nombre": "wallis y futuna",
+    "capital": "Mata-Utu",
+    "moneda": "XPF",
+    "poblacion": 11750,
+    "bandera": "https://flagcdn.com/w2560/wf.png"
+  },
+
+  {
+    "nombre": "azerbaiyán",
+    "capital": "Bakú",
+    "moneda": "AZN",
+    "poblacion": 10139177,
+    "bandera": "https://flagcdn.com/w2560/az.png"
+  },
+  {
+    "nombre": "armenia",
+    "capital": "Ereván",
+    "moneda": "AMD",
+    "poblacion": 2963243,
+    "bandera": "https://flagcdn.com/w2560/am.png"
+  },
+  {
+    "nombre": "bahréin",
+    "capital": "Manama",
+    "moneda": "BHD",
+    "poblacion": 1745799,
+    "bandera": "https://flagcdn.com/w2560/bh.png"
+  },
+  {
+    "nombre": "bahrein",
+    "capital": "Manama",
+    "moneda": "BHD",
+    "poblacion": 1745799,
+    "bandera": "https://flagcdn.com/w2560/bh.png"
+  },
+  {
+    "nombre": "china",
+    "capital": "Pekín",
+    "moneda": "CNY",
+    "poblacion": 1439323776,
+    "bandera": "https://flagcdn.com/w2560/cn.png"
+  },
+  {
+    "nombre": "chipre",
+    "capital": "Nicosia",
+    "moneda": "EUR",
+    "poblacion": 1207359,
+    "bandera": "https://flagcdn.com/w2560/cy.png"
+  },
+  {
+    "nombre": "emiratos árabes unidos",
+    "capital": "Abu Dabi",
+    "moneda": "AED",
+    "poblacion": 9890400,
+    "bandera": "https://flagcdn.com/w2560/ae.png"
+  },
+  {
+    "nombre": "emiratos arabes unidos",
+    "capital": "Abu Dabi",
+    "moneda": "AED",
+    "poblacion": 9890400,
+    "bandera": "https://flagcdn.com/w2560/ae.png"
+  },
+  {
+    "nombre": "Georgia",
+    "capital": "Tiflis",
+    "moneda": "GEL",
+    "poblacion": 3989167,
+    "bandera": "https://flagcdn.com/w2560/ge.png"
+  },
+  {
+    "nombre": "kazajistán",
+    "capital": "Nur-Sultán",
+    "moneda": "KZT",
+    "poblacion": 18776707,
+    "bandera": "https://flagcdn.com/w2560/kz.png"
+  },
+  {
+    "nombre": "kirguistán",
+    "capital": "Biskek",
+    "moneda": "KGS",
+    "poblacion": 6524195,
+    "bandera": "https://flagcdn.com/w2560/kg.png"
+  },
+  {
+    "nombre": "kirguistan",
+    "capital": "Biskek",
+    "moneda": "KGS",
+    "poblacion": 6524195,
+    "bandera": "https://flagcdn.com/w2560/kg.png"
+  },
+  {
+    "nombre": "kuwait",
+    "capital": "Kuwait",
+    "moneda": "KWD",
+    "poblacion": 4270571,
+    "bandera": "https://flagcdn.com/w2560/kw.png"
+  },
+  {
+    "nombre": "laos",
+    "capital": "Vientián",
+    "moneda": "LAK",
+    "poblacion": 7275556,
+    "bandera": "https://flagcdn.com/w2560/la.png"
+  },
+  {
+    "nombre": "macao",
+    "capital": "Macao",
+    "moneda": "MOP",
+    "poblacion": 649100,
+    "bandera": "https://flagcdn.com/w2560/mo.png"
+  },
+  {
+    "nombre": "macau",
+    "capital": "Macau",
+    "moneda": "MOP",
+    "poblacion": 682800,
+    "bandera": "https://flagcdn.com/w2560/mo.png"
+  },
+  {
+    "nombre": "malasia",
+    "capital": "Kuala Lumpur",
+    "moneda": "MYR",
+    "poblacion": 32782964,
+    "bandera": "https://flagcdn.com/w2560/my.png"
+  },
+  {
+    "nombre": "maldivas",
+    "capital": "Malé",
+    "moneda": "MVR",
+    "poblacion": 530953,
+    "bandera": "https://flagcdn.com/w2560/mv.png"
+  },
+  {
+    "nombre": "mongolia",
+    "capital": "Ulán Bator",
+    "moneda": "MNT",
+    "poblacion": 3300000,
+    "bandera": "https://flagcdn.com/w2560/mn.png"
+  },
+  {
+    "nombre": "nepal",
+    "capital": "Katmandú",
+    "moneda": "NPR",
+    "poblacion": 29609623,
+    "bandera": "https://flagcdn.com/w2560/np.png"
+  },
+  {
+    "nombre": "omán",
+    "capital": "Mascate",
+    "moneda": "OMR",
+    "poblacion": 5124736,
+    "bandera": "https://flagcdn.com/w2560/om.png"
+  },
+  {
+    "nombre": "oman",
+    "capital": "Mascate",
+    "moneda": "OMR",
+    "poblacion": 5124736,
+    "bandera": "https://flagcdn.com/w2560/om.png"
+  },
+  {
+    "nombre": "palestina",
+    "capital": "Jerusalén",
+    "moneda": "ILS",
+    "poblacion": 5101414,
+    "bandera": "https://flagcdn.com/w2560/ps.png"
+  },
+  {
+    "nombre": "qatar",
+    "capital": "Doha",
+    "moneda": "QAR",
+    "poblacion": 2889284,
+    "bandera": "https://flagcdn.com/w2560/qa.png"
+  },
+  {
+    "nombre": "singapur",
+    "capital": "Singapur",
+    "moneda": "SGD",
+    "poblacion": 5850342,
+    "bandera": "https://flagcdn.com/w2560/sg.png"
+  },
+  {
+    "nombre": "taiwán",
+    "capital": "Taipéi",
+    "moneda": "TWD",
+    "poblacion": 23816775,
+    "bandera": "https://flagcdn.com/w2560/tw.png"
+  },
+  {
+    "nombre": "taiwan",
+    "capital": "Taipéi",
+    "moneda": "TWD",
+    "poblacion": 23816775,
+    "bandera": "https://flagcdn.com/w2560/tw.png"
+  },
+  {
+    "nombre": "tayikistán",
+    "capital": "Dusambé",
+    "moneda": "TJS",
+    "poblacion": 9127000,
+    "bandera": "https://flagcdn.com/w2560/tj.png"
+  },
+  {
+    "nombre": "tayikistan",
+    "capital": "Dusambé",
+    "moneda": "TJS",
+    "poblacion": 9127000,
+    "bandera": "https://flagcdn.com/w2560/tj.png"
+  },
+  {
+    "nombre": "tíbet",
+    "capital": "Lhasa",
+    "moneda": "CNY",
+    "poblacion": 3180000,
+    "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Tibet.svg/1920px-Flag_of_Tibet.svg.png"
+  },
+  {
+    "nombre": "tibet",
+    "capital": "Lhasa",
+    "moneda": "CNY",
+    "poblacion": 3180000,
+    "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Tibet.svg/1920px-Flag_of_Tibet.svg.png"
+  },
+  {
+    "nombre": "turkmenistán",
+    "capital": "Asjabad",
+    "moneda": "TMT",
+    "poblacion": 6031200,
+    "bandera": "https://flagcdn.com/w2560/tm.png"
+  },
+  {
+    "nombre": "uzbekistán",
+    "capital": "Taskent",
+    "moneda": "UZS",
+    "poblacion": 34232050,
+    "bandera": "https://flagcdn.com/w2560/uz.png"
+  },
+  {
+    "nombre": "vietnam",
+    "capital": "Hanói",
+    "moneda": "VND",
+    "poblacion": 97429061,
+    "bandera": "https://flagcdn.com/w2560/vn.png"
+  },
+
+  {
+    "nombre": "angola",
+    "capital": "Luanda",
+    "moneda": "AOA",
+    "poblacion": 32866272,
+    "bandera": "https://flagcdn.com/w2560/ao.png"
+  },
+  {
+    "nombre": "argelia",
+    "capital": "Argel",
+    "moneda": "DZD",
+    "poblacion": 44357000,
+    "bandera": "https://flagcdn.com/w2560/dz.png"
+  },
+  {
+    "nombre": "benín",
+    "capital": "Porto Novo",
+    "moneda": "XOF",
+    "poblacion": 12123198,
+    "bandera": "https://flagcdn.com/w2560/bj.png"
+  },
+  {
+    "nombre": "botswana",
+    "capital": "Gaborone",
+    "moneda": "BWP",
+    "poblacion": 2351627,
+    "bandera": "https://flagcdn.com/w2560/bw.png"
+  },
+  {
+    "nombre": "burkina faso",
+    "capital": "Uagadugú",
+    "moneda": "XOF",
+    "poblacion": 20903273,
+    "bandera": "https://flagcdn.com/w2560/bf.png"
+  },
+  {
+    "nombre": "burundi",
+    "capital": "Gitega",
+    "moneda": "BIF",
+    "poblacion": 11890784,
+    "bandera": "https://flagcdn.com/w2560/bi.png"
+  },
+  {
+    "nombre": "cabo verde",
+    "capital": "Praia",
+    "moneda": "CVE",
+    "poblacion": 555987,
+    "bandera": "https://flagcdn.com/w2560/cv.png"
+  },
+  {
+    "nombre": "camerún",
+    "capital": "Yaundé",
+    "moneda": "XAF",
+    "poblacion": 26545863,
+    "bandera": "https://flagcdn.com/w2560/cm.png"
+  },
+  {
+    "nombre": "comoras",
+    "capital": "Moroni",
+    "moneda": "KMF",
+    "poblacion": 869601,
+    "bandera": "https://flagcdn.com/w2560/km.png"
+  },
+  {
+    "nombre": "costa de marfil",
+    "capital": "Yamusukro",
+    "moneda": "XOF",
+    "poblacion": 26378274,
+    "bandera": "https://flagcdn.com/w2560/ci.png"
+  },
+  {
+    "nombre": "egipto",
+    "capital": "El Cairo",
+    "moneda": "EGP",
+    "poblacion": 104258327,
+    "bandera": "https://flagcdn.com/w2560/eg.png"
+  },
+  {
+    "nombre": "etiopía",
+    "capital": "Adís Abeba",
+    "moneda": "ETB",
+    "poblacion": 117876000,
+    "bandera": "https://flagcdn.com/w2560/et.png"
+  },
+  {
+    "nombre": "gabón",
+    "capital": "Libreville",
+    "moneda": "XAF",
+    "poblacion": 2172579,
+    "bandera": "https://flagcdn.com/w2560/ga.png"
+  },
+  {
+    "nombre": "gambia",
+    "capital": "Banjul",
+    "moneda": "GMD",
+    "poblacion": 2416668,
+    "bandera": "https://flagcdn.com/w2560/gm.png"
+  },
+  {
+    "nombre": "ghana",
+    "capital": "Acra",
+    "moneda": "GHS",
+    "poblacion": 31072940,
+    "bandera": "https://flagcdn.com/w2560/gh.png"
+  },
+  {
+    "nombre": "guinea",
+    "capital": "Conakry",
+    "moneda": "GNF",
+    "poblacion": 13132795,
+    "bandera": "https://flagcdn.com/w2560/gn.png"
+  },
+  {
+    "nombre": "guinea-bissau",
+    "capital": "Bisáu",
+    "moneda": "XOF",
+    "poblacion": 1968001,
+    "bandera": "https://flagcdn.com/w2560/gw.png"
+  },
+  {
+    "nombre": "kenia",
+    "capital": "Nairobi",
+    "moneda": "KES",
+    "poblacion": 54985929,
+    "bandera": "https://flagcdn.com/w2560/ke.png"
+  },
+  {
+    "nombre": "lesoto",
+    "capital": "Maseru",
+    "moneda": "LSL",
+    "poblacion": 2142249,
+    "bandera": "https://flagcdn.com/w2560/ls.png"
+  },
+  {
+    "nombre": "liberia",
+    "capital": "Monrovia",
+    "moneda": "LRD",
+    "poblacion": 5057681,
+    "bandera": "https://flagcdn.com/w2560/lr.png"
+  },
+  {
+    "nombre": "libia",
+    "capital": "Trípoli",
+    "moneda": "LYD",
+    "poblacion": 6871292,
+    "bandera": "https://flagcdn.com/w2560/ly.png"
+  },
+  {
+    "nombre": "madagascar",
+    "capital": "Antananarivo",
+    "moneda": "MGA",
+    "poblacion": 27691018,
+    "bandera": "https://flagcdn.com/w2560/mg.png"
+  },
+  {
+    "nombre": "malawi",
+    "capital": "Lilongüe",
+    "moneda": "MWK",
+    "poblacion": 19129952,
+    "bandera": "https://flagcdn.com/w2560/mw.png"
+  },
+  {
+    "nombre": "malí",
+    "capital": "Bamako",
+    "moneda": "XOF",
+    "poblacion": 20250833,
+    "bandera": "https://flagcdn.com/w2560/ml.png"
+  },
+  {
+    "nombre": "marruecos",
+    "capital": "Rabat",
+    "moneda": "MAD",
+    "poblacion": 36471769,
+    "bandera": "https://flagcdn.com/w2560/ma.png"
+  },
+  {
+    "nombre": "mauricio",
+    "capital": "Port Louis",
+    "moneda": "MUR",
+    "poblacion": 1265577,
+    "bandera": "https://flagcdn.com/w2560/mu.png"
+  },
+  {
+    "nombre": "mauritania",
+    "capital": "Nouakchott",
+    "moneda": "MRU",
+    "poblacion": 4696580,
+    "bandera": "https://flagcdn.com/w2560/mr.png"
+  },
+  {
+    "nombre": "mozambique",
+    "capital": "Maputo",
+    "moneda": "MZN",
+    "poblacion": 31255435,
+    "bandera": "https://flagcdn.com/w2560/mz.png"
+  },
+  {
+    "nombre": "namibia",
+    "capital": "Windhoek",
+    "moneda": "NAD",
+    "poblacion": 2540905,
+    "bandera": "https://flagcdn.com/w2560/na.png"
+  },
+  {
+    "nombre": "nigeria",
+    "capital": "Abuja",
+    "moneda": "NGN",
+    "poblacion": 206139589,
+    "bandera": "https://flagcdn.com/w2560/ng.png"
+  },
+  {
+    "nombre": "níger",
+    "capital": "Niamey",
+    "moneda": "XOF",
+    "poblacion": 24206644,
+    "bandera": "https://flagcdn.com/w2560/ne.png"
+  },
+  {
+    "nombre": "ruanda",
+    "capital": "Kigali",
+    "moneda": "RWF",
+    "poblacion": 12952218,
+    "bandera": "https://flagcdn.com/w2560/rw.png"
+  },
+  {
+    "nombre": "santo tomé y príncipe",
+    "capital": "Santo Tomé",
+    "moneda": "STN",
+    "poblacion": 219159,
+    "bandera": "https://flagcdn.com/w2560/st.png"
+  },
+  {
+    "nombre": "senegal",
+    "capital": "Dakar",
+    "moneda": "XOF",
+    "poblacion": 16743927,
+    "bandera": "https://flagcdn.com/w2560/sn.png"
+  },
+  {
+    "nombre": "seychelles",
+    "capital": "Victoria",
+    "moneda": "SCR",
+    "poblacion": 98347,
+    "bandera": "https://flagcdn.com/w2560/sc.png"
+  },
+  {
+    "nombre": "sierra leona",
+    "capital": "Freetown",
+    "moneda": "SLL",
+    "poblacion": 7976985,
+    "bandera": "https://flagcdn.com/w2560/sl.png"
+  },
+  {
+    "nombre": "suazilandia",
+    "capital": "Lobamba",
+    "moneda": "SZL",
+    "poblacion": 1159250,
+    "bandera": "https://flagcdn.com/w2560/sz.png"
+  },
+  {
+    "nombre": "sudáfrica",
+    "capital": "Pretoria",
+    "moneda": "ZAR",
+    "poblacion": 59622350,
+    "bandera": "https://flagcdn.com/w2560/za.png"
+  },
+  {
+    "nombre": "sudán",
+    "capital": "Jartum",
+    "moneda": "SDG",
+    "poblacion": 44151265,
+    "bandera": "https://flagcdn.com/w2560/sd.png"
+  },
+  {
+    "nombre": "santo tomé y príncipe",
+    "capital": "Santo Tomé",
+    "moneda": "STN",
+    "poblacion": 219159,
+    "bandera": "https://flagcdn.com/w2560/st.png"
+  },
+  {
+    "nombre": "tanzania",
+    "capital": "Dodoma",
+    "moneda": "TZS",
+    "poblacion": 59734213,
+    "bandera": "https://flagcdn.com/w2560/tz.png"
+  },
+  {
+    "nombre": "túnez",
+    "capital": "Túnez",
+    "moneda": "TND",
+    "poblacion": 11818619,
+    "bandera": "https://flagcdn.com/w2560/tn.png"
+  },
+  {
+    "nombre": "uganda",
+    "capital": "Kampala",
+    "moneda": "UGX",
+    "poblacion": 47182950,
+    "bandera": "https://flagcdn.com/w2560/ug.png"
+  },
+  {
+    "nombre": "zambia",
+    "capital": "Lusaka",
+    "moneda": "ZMW",
+    "poblacion": 18383956,
+    "bandera": "https://flagcdn.com/w2560/zm.png"
+  },
+  {
+    "nombre": "zimbabue",
+    "capital": "Harare",
+    "moneda": "ZWL",
+    "poblacion": 15092171,
+    "bandera": "https://flagcdn.com/w2560/zw.png"
   }
 ]
