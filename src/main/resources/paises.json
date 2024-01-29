@@ -379,6 +379,20 @@
     "poblacion": 331002651,
     "bandera": "https://flagcdn.com/w2560/us.png"
   },
+  {
+    "nombre": "united states",
+    "capital": "Washington D.C.",
+    "moneda": "USD",
+    "poblacion": 331002651,
+    "bandera": "https://flagcdn.com/w2560/us.png"
+  },
+  {
+    "nombre": "usa",
+    "capital": "Washington D.C.",
+    "moneda": "USD",
+    "poblacion": 331002651,
+    "bandera": "https://flagcdn.com/w2560/us.png"
+  },
 
   {
     "nombre": "Albania",
