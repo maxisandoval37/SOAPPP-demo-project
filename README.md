@@ -1,6 +1,6 @@
 # SOAPPP Demo Project - Educación IT 2023 (Curso dictado por mi autoría)
 
-Proporciona servicios web SOAP. Construido con Spring Boot para facilitar el desarrollo y prueba de aplicaciones basadas en este protocolo.
+Proporciona servicios web SOAP, el cual nos otorga información del país ingresado. Construido con Spring Boot WS.
 
 ## Tecnologías Utilizadas
 
@@ -54,6 +54,20 @@ El proyecto utiliza el plugin jaxb2-maven-plugin para generar clases Java a part
 
 ```bash
 curl --header "content-type: text/xml" -d @request.xml http://localhost:8081/ws
+```
+
+## Ejemplo de Response
+
+```xml
+<ns2:obtenerPaisResponse xmlns:ns2="http://localhost:8081/ws">
+    <ns2:pais>
+        <ns2:nombre>argentina</ns2:nombre>
+        <ns2:capital>Cuidad Autonoma de Buenos Aires</ns2:capital>
+        <ns2:moneda>ARS</ns2:moneda>
+        <ns2:poblacion>46234830</ns2:poblacion>
+        <ns2:bandera>https://flagcdn.com/w2560/ar.png</ns2:bandera>
+    </ns2:pais>
+</ns2:obtenerPaisResponse>
 ```
 
 ## Live Demo
